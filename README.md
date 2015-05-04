@@ -9,6 +9,12 @@
 
 
 
+<br /><br />
+#### 示例截图
+![image](./CoreLock/core.gif)<br />
+<br /><br />
+
+
 #### 框架特性：<br />
 >.ios版本兼容ios 7.0及以上.<br />
 >.扁平化设计，全部使用QuartzCore引擎绘制，没有使用任何图片素材<br />
@@ -107,12 +113,8 @@
 
   
   <br /><br />
-#### 示例截图
-![image](./CoreLock/1.png)<br />
-<br /><br />
-  
-  
 
+  
 
 <br /><br />
 
