@@ -140,7 +140,7 @@ Mail：1761904945@qq.com<br />
 
 <br /><br />
 #### 友情提示 MENTION<br />
-Charlin（成都）更多原创项目（涵盖了方方面面，看看还有没有你需要的）：
-首页：https://github.com/nsdictionary
-列表：https://github.com/nsdictionary?tab=repositories
-成都iOS开发群：163865401（Charlin创建与维护）
+Charlin（成都）更多原创项目（涵盖了方方面面，看看还有没有你需要的）：<br />
+首页：https://github.com/nsdictionary<br />
+列表：https://github.com/nsdictionary?tab=repositories<br />
+成都iOS开发群：163865401（Charlin创建与维护）<br />
