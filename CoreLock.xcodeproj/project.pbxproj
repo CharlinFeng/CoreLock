@@ -24,6 +24,7 @@
 		893F1FFD1AE68CF1009D6A35 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 893F1FFC1AE68CF1009D6A35 /* Images.xcassets */; };
 		893F20001AE68CF1009D6A35 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 893F1FFE1AE68CF1009D6A35 /* LaunchScreen.xib */; };
 		893F200C1AE68CF1009D6A35 /* CoreLockTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 893F200B1AE68CF1009D6A35 /* CoreLockTests.m */; };
+		8952833F1AF71B4500ACED06 /* core.gif in Resources */ = {isa = PBXBuildFile; fileRef = 8952833E1AF71B4500ACED06 /* core.gif */; };
 		8971F9011AEF581D009BFA27 /* CALayer+Anim.m in Sources */ = {isa = PBXBuildFile; fileRef = 8971F9001AEF581D009BFA27 /* CALayer+Anim.m */; };
 		8971F9451AEF5D77009BFA27 /* CLLockMainView.m in Sources */ = {isa = PBXBuildFile; fileRef = 8971F9441AEF5D77009BFA27 /* CLLockMainView.m */; };
 		8971F9471AEF6678009BFA27 /* 1.png in Resources */ = {isa = PBXBuildFile; fileRef = 8971F9461AEF6678009BFA27 /* 1.png */; };
@@ -72,6 +73,7 @@
 		893F20051AE68CF1009D6A35 /* CoreLockTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CoreLockTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		893F200A1AE68CF1009D6A35 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		893F200B1AE68CF1009D6A35 /* CoreLockTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CoreLockTests.m; sourceTree = "<group>"; };
+		8952833E1AF71B4500ACED06 /* core.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = core.gif; sourceTree = "<group>"; };
 		8971F8FF1AEF581D009BFA27 /* CALayer+Anim.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "CALayer+Anim.h"; sourceTree = "<group>"; };
 		8971F9001AEF581D009BFA27 /* CALayer+Anim.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "CALayer+Anim.m"; sourceTree = "<group>"; };
 		8971F9221AEF5D0E009BFA27 /* CoreConst.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CoreConst.h; sourceTree = "<group>"; };
@@ -221,6 +223,7 @@
 		893F1FEF1AE68CF1009D6A35 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				8952833E1AF71B4500ACED06 /* core.gif */,
 				8971F9461AEF6678009BFA27 /* 1.png */,
 				893F1FF01AE68CF1009D6A35 /* Info.plist */,
 				893F1FF11AE68CF1009D6A35 /* main.m */,
@@ -343,6 +346,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				893F1FFB1AE68CF1009D6A35 /* Main.storyboard in Resources */,
+				8952833F1AF71B4500ACED06 /* core.gif in Resources */,
 				893F20001AE68CF1009D6A35 /* LaunchScreen.xib in Resources */,
 				8939E5ED1AEF02EE006B9ABA /* CLLockVC.xib in Resources */,
 				893F1FFD1AE68CF1009D6A35 /* Images.xcassets in Resources */,
