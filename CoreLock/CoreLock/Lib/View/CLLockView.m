@@ -369,7 +369,9 @@ const CGFloat marginValue = 36.0f;
     
     //记录密码
     [self.pwdM appendFormat:@"%@",@(itemView.tag)];
-    
+
+	//通知InfoView
+	[[NSNotificationCenter defaultCenter] postNotificationName:@"CLLockView" object:nil userInfo:@{@"CLLockView":self.pwdM}];
     
     //计算方向：每添加一次itemView就计算一次
     [self calDirect];
