@@ -5,36 +5,8 @@
 <br /><br />
 
 
-框架推荐：CoreModel系列 SERIES
-===============
 
-#### 重磅推出：Swift版的MJExtension，运行时、反射与一键字典模型互转
-文档：https://github.com/nsdictionary/CFRuntime
-
-第一季：CoreFMDB
-https://github.com/nsdictionary/CoreFMDB
-
-第二季：CoreArchive
-https://github.com/nsdictionary/CoreArchive
-
-第三季：CoreClass
-https://github.com/nsdictionary/CoreClass
-
-第四季：CoreModel模型动态缓存、列表模型动态缓存。<br />
-暂未开源！请加群归队，获取最新信息（群信息在下面）！！！请支持第三季！
-
-第五季：动态缓存list终结者。<br />
-暂未开源！请加群归队，获取最新信息（群信息在下面）！！！请支持第三季！
-
-<br /><br /><br />
-本框架是隶属于MJExtension续作，我给这系列框架取了一个整体上的名字叫做：CoreModel。
-CoreClass是系列第三季，共有5季，还有最后两季！连载中，请加群关注最新动态！<br />
-
-
-
-<br /><br />
-
-CoreLock
+CoreLock（关注[信息公告牌](https://github.com/CharlinFeng/Show)）
 ===============
 高仿支付宝解锁！<br />
 
