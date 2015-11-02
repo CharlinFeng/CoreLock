@@ -27,7 +27,6 @@
 		8952833F1AF71B4500ACED06 /* core.gif in Resources */ = {isa = PBXBuildFile; fileRef = 8952833E1AF71B4500ACED06 /* core.gif */; };
 		8971F9011AEF581D009BFA27 /* CALayer+Anim.m in Sources */ = {isa = PBXBuildFile; fileRef = 8971F9001AEF581D009BFA27 /* CALayer+Anim.m */; };
 		8971F9451AEF5D77009BFA27 /* CLLockMainView.m in Sources */ = {isa = PBXBuildFile; fileRef = 8971F9441AEF5D77009BFA27 /* CLLockMainView.m */; };
-		8971F9471AEF6678009BFA27 /* 1.png in Resources */ = {isa = PBXBuildFile; fileRef = 8971F9461AEF6678009BFA27 /* 1.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -350,7 +349,6 @@
 				893F20001AE68CF1009D6A35 /* LaunchScreen.xib in Resources */,
 				8939E5ED1AEF02EE006B9ABA /* CLLockVC.xib in Resources */,
 				893F1FFD1AE68CF1009D6A35 /* Images.xcassets in Resources */,
-				8971F9471AEF6678009BFA27 /* 1.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
