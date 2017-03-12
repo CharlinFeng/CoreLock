@@ -13,7 +13,7 @@
 		<key>204B8EFE146C0E80D77A4FDDF115AE9F3782E6BA</key>
 		<string>https://github.com/nsdictionary/CoreLock.git</string>
 	</dict>
-	<key>IDESourceControlProjectPath</key>
+	<key>IDESourceControlProjectPath</key>  
 	<string>CoreLock.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
